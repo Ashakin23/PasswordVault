@@ -54,7 +54,7 @@ while True:
                 
             key = zf.read('unlock.key')
             key = key.decode('utf-8')
-            print(key)
+            
             break;
         break;
     break;
